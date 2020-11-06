@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pratices/week06/huffman-coding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pratices/week07/AntColonyOptimization" vcs="Git" />
   </component>
 </project>
