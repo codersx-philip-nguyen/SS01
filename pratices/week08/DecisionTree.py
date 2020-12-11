@@ -30,6 +30,7 @@ def entropy(freq):
 def H_sample(_entropy_list):
     return np.sum(_entropy_list)
 
+
 if __name__ == "__main__":
     freq = count_freq([1,1,1,1,1,1,2,2])
     print(freq)
